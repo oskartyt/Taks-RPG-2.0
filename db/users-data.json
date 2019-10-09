@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "basicData": {
+        "name": "Wacław Pogromca Modliszek",
+        "type": "knight",
+        "sex": "M",
+        "colectedGold": 580,
+        "killedMonsters": 3,
+        "gainedLootboxes": 2
+      },
+      "currentMonster": {
+        "id": 4,
+        "name": "Kultysta Złego Zła",
+        "image": "D4",
+        "healthMax": 40,
+        "gold": 110,
+        "takenDamage": 13
+      },
+      "tasks": {
+        "daily": [
+          {
+            "name": "Zmyj naczynia",
+            "type": 2
+          },
+          {
+            "name": "Daj radę2",
+            "type": 9
+          },
+          {
+            "name": "Daj radę3",
+            "type": 9
+          },
+          {
+            "name": "Daj radę4",
+            "type": 9
+          },
+          {
+            "name": "Daj radę5",
+            "type": 9
+          },
+          {
+            "name": "asdasfd",
+            "type": 5
+          },
+          {
+            "name": "Daj radę6",
+            "type": 5
+          }
+        ],
+        "uncompletedDaily": [
+          {
+            "name": "Zmyj naczynia",
+            "type": 2
+          },
+          {
+            "name": "Daj radę2",
+            "type": 9
+          },
+          {
+            "name": "Daj radę3",
+            "type": 9
+          },
+          {
+            "name": "Daj radę4",
+            "type": 9
+          },
+          {
+            "name": "Daj radę5",
+            "type": 9
+          },
+          {
+            "name": "asdasfd",
+            "type": 5
+          },
+          {
+            "name": "Daj radę6",
+            "type": 5
+          }
+        ],
+        "special": {}
+      },
+      "lastVisitDate": {
+        "year": 2019,
+        "month": 9,
+        "day": 9
+      }
+    }
+  ],
+  "monsters": [
+    {
+      "id": 1,
+      "name": "Diablik",
+      "image": "D1",
+      "healthMax": 10,
+      "gold": 20
+    },
+    {
+      "id": 2,
+      "name": "Demoniszcze Zębiszcze",
+      "image": "D2",
+      "healthMax": 20,
+      "gold": 50
+    },
+    {
+      "id": 3,
+      "name": "Demoniczna Rogacizna",
+      "image": "D3",
+      "healthMax": 30,
+      "gold": 80
+    },
+    {
+      "id": 4,
+      "name": "Kultysta Złego Zła",
+      "image": "D4",
+      "healthMax": 40,
+      "gold": 110
+    }
+  ]
+}
