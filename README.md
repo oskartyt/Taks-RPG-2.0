@@ -1,3 +1,7 @@
+# Task-RPG with Redux and Firebase
+
+The copy of previously unfinished project with addition of Redux and Firebase techonogies
+
 # Task-RPG
 Task killer based on RPG mechanics.
 
