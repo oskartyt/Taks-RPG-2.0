@@ -1,7 +1,8 @@
 const testReducer=(state=['asdad','asdadgfgg'],action)=>{
-    switch (action) {
+    switch (action.type) {
         case 'ADD_STRING':
-            return [...state,action.payload.newArrElement]
+            console.log('weszło');
+            return [...state,action.payload.newArrElement];
         default:
             return state
     }

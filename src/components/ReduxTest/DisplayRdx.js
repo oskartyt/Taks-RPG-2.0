@@ -9,7 +9,7 @@ class ConnectedDisplayRdx extends Component{
     render() {
         return <div>
             <ul>
-                {this.props.testStrings.map(e=><li>
+                {this.props.testStrings.map((e,index)=><li key={index}>
                     {e}
                 </li>)}
             </ul>
