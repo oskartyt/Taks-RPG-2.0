@@ -10,4 +10,4 @@ const store = createStore(
     storeEnhancers(applyMiddleware(GNotAllowedMiddleware))
 );
 
-export default store
+export default store;
